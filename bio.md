@@ -2,4 +2,7 @@ In 2006 I graduated from Brigham Young University with a BA in Communications.  
 
 This afternoon I am going metal detecting and I hope to discover treasure
 
+
 Programming Background
+For two years in high school I took a Visual Basic computer class.  That was over 15 years ago now and was the last formal training I’ve had.  In my jobs I have dabbled in SQL, HTML and Javascript though I only know enough to be dangerous.  I spend my time tweaking other people’s code as I don’t know enough to be able to write my own from scratch.
+
