@@ -1,6 +1,7 @@
 In 2006 I graduated from Brigham Young University with a BA in Communications.  After graduating, I started work with eBay as a Top Seller Account Manager and since then I have worked at Overstock.com, Amazon and now I’m currently working for Adobe.  While a lot of my professional career was spent in account management I was also a data analyst.  In my current role, I launch A/B tests and report on the findings to our marketing team.
 
-This afternoon I am going metal detecting and I hope to discover treasure
+This afternoon I am going metal detecting and I hope to discover treasure.
+Well, yesterday I went metal detecting and I didn't find any treasure, but I did find an old military button.  Pretty cool!
 
 
 Programming Background
